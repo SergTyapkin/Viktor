@@ -1,0 +1,8 @@
+*.exe
+*.dll
+*.o
+*.out
+*.txt
+*.save
+*.save-failed
+*.rar
